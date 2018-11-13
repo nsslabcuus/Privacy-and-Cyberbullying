@@ -5,5 +5,5 @@
 
 # Cyberbullying Defense
 <ul>
-<li>2018, USENIX. <a href="https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-yuan_0.pdf" rel="nofollow">iReading Thieves' Cant: Automatically Identifying and Understanding Dark Jargons from Cybercrime Marketplaces</a></li>
+<li>2018, USENIX. <a href="https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-yuan_0.pdf" rel="nofollow">Reading Thieves' Cant: Automatically Identifying and Understanding Dark Jargons from Cybercrime Marketplaces</a></li>
 </ul>
